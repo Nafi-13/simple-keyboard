@@ -1,2 +1,7 @@
+
 I am new to this
 I am creating conflict
+
+I am new to this.
+I am inside the newbranch
+
